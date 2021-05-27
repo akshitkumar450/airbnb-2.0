@@ -34,7 +34,7 @@ function Search() {
             <input min={0} defaultValue={2} type="number" />
             <Button >Search Airbnb</Button>
             */}
-        </div >
+        </div>
     )
 }
 
